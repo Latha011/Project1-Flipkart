@@ -1,4 +1,4 @@
-package com.filpkart-www;
+package com.filpkart.www;
 
 import static org.junit.Assert.assertTrue;
 
